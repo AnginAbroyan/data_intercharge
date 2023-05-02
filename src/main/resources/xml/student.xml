@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<studentList>
+    <student>
+        <firstName>Dinkar</firstName>
+        <lastName>Kad</lastName>
+        <nickName>Dinkar</nickName>
+        <marks>85</marks>
+    </student>
+
+    <student>
+        <firstName>Vaneet</firstName>
+        <lastName>Gupta</lastName>
+        <nickName>Vinni</nickName>
+        <marks>95</marks>
+    </student>
+
+    <student>
+        <firstName>Jasvir</firstName>
+        <lastName>Singh</lastName>
+        <nickName>Jazz</nickName>
+        <marks>90</marks>
+    </student>
+</studentList>
